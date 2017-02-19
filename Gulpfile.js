@@ -214,7 +214,6 @@ gulp.task('clean', [
 ]);
 gulp.task('default', function(cb) {
 	runSequence([
-			'jshint',
 			'requirejs',
 			'less',
 			'copy-font',
