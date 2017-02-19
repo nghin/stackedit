@@ -31,8 +31,8 @@ define([], function() {
 	constants.COUCHDB_URL = 'https://stackedit.smileupps.com/documents';
 
 	// Site dependent
-	constants.BASE_URL = "http://localhost/";
-	constants.GOOGLE_CLIENT_ID = '241271498917-lev37kef013q85avc91am1gccg5g8lrb.apps.googleusercontent.com';
+	constants.BASE_URL = "http://192.168.99.100:8080/";
+	constants.GOOGLE_CLIENT_ID = '292425921076-fpeob4khcbcsiaf6ah5t8q4i57bq167r.apps.googleusercontent.com';
 	constants.GITHUB_CLIENT_ID = 'e47fef6055344579799d';
 	constants.GATEKEEPER_URL = "https://stackedit-gatekeeper-localhost.herokuapp.com/";
 	constants.TUMBLR_PROXY_URL = "https://stackedit-tumblr-proxy-local.herokuapp.com/";
